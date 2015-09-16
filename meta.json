@@ -1,28 +1,12 @@
-/*
- * Metadata describing the module operation
- */
 {
-    //Required. Inputs the module expects.
     "inputs": [
-        //e.g.
-        /*
         {
-            "id": "from",
-            "title":"From",
+            "id": "message",
+            "title":"Message",
             "type":"string"
         }
-        */
     ],
-    //Required. Outputs the module emits.
     "outputs": [
-      //e.g.
-      /*
-        {
-            "id": "from",
-            "title":"From",
-            "type":"array"
-        }
-      */
     ],
-    "title": "twitter-tweet" /* Required.A display name for the module */
+    "title": "Twitter Tweeter"
 }

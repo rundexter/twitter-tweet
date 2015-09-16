@@ -1,12 +1,13 @@
 {
-    "name": "twitter-tweet",
-    "version": "0.0.1",
-    "description": "",
-    "main": "index.js",
-    "author": "Someone Somewhere",
-    "license": "ISC",
-    "private": true,
-    "dependencies": {
-        "lodash": "^3.9.3"
-    }
+  "name": "twitter-tweet",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "author": "Someone Somewhere",
+  "license": "ISC",
+  "private": true,
+  "dependencies": {
+    "lodash": "^3.9.3",
+    "twit": "^2.1.0"
+  }
 }
