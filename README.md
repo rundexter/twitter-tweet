@@ -1,4 +1,4 @@
-# Twitter Trends 
+# Twitter Tweet 
 
 This [Dexter](http://rundexter.com) module will update the configured
 user's status in [Twitter](https://dev.twitter.com/rest/reference/post/statuses/update).
