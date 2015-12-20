@@ -1,13 +1,11 @@
 {
-    "inputs": [
-        {
+    "inputs": [{
             "id": "message",
             "title":"Message",
             "type":"string"
-        }
-    ],
-    "outputs": [
-    ],
+    }],
+    "outputs": [],
+    "providers" : [ "twitter" ],
     "icon": "twitter",
     "title": "Twitter Tweeter"
 }
